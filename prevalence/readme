@@ -1,0 +1,9 @@
+Three R scripts are provided in this folder: 
+
+- KalmanFunctions.R -> functions implementing the SAEM algorithm combined with Kalman filtering techniques.
+
+- ModelFunctions.R  -> functions used to compute some key quantities related to the SIR model.
+
+- SIRexample.R      -> examples of the SIR model: simulation of random parameters and jump processes, generation of the observations and application of the SAEM_KM function.
+
+
